@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/myTest_EXE.dir/Src/main.cpp.o CMakeFiles/myTest_EXE.dir/Src/wifes.cpp.o -o /home/x/Project/demo02/bin/myTest_EXE
