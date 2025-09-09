@@ -1,3 +1,0 @@
-/home/x/Project/demo02/build/CMakeFiles/myTest_EXE.dir
-/home/x/Project/demo02/build/CMakeFiles/edit_cache.dir
-/home/x/Project/demo02/build/CMakeFiles/rebuild_cache.dir
